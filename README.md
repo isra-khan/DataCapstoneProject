@@ -1,16 +1,8 @@
 # DataCapstoneProject
 
 Dataset Analysis Summary
-Based on the analysis performed on the Countries.csv dataset, here are the answers to the specified questions:
+This notebook analyzes global country data using the Countries.csv dataset. Key metrics examined include population, regional breakdowns, political structures, and democracy scores.
 
-Country with the highest population: 
-Capital of the country with the highest population: 
-Country with the least population: 
-Capital of the country with the least population: 
-Top 5 countries with the highest democracy scores: 
-Total number of regions: 
-Number of countries in the Eastern Europe region: 
-Political leader of the second most populated country (China):
-Number of countries with unknown political leaders: 
-Number of countries with "Republic" in their full names: 
-Most populated country in the Africa continent:
+Population Insights: Identifies the highest, lowest, and regional population leaders (such as Nigeria leading the African continent).
+Geographic & Regional Details: Aggregates statistics by continent and specific sub-regions (e.g., Eastern Europe).
+Political Analysis: Analyzes leadership data, measures the occurrences of "Republics" in official state names, and evaluates global democracy using index scores.
